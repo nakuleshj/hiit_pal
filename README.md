@@ -9,4 +9,4 @@ A High intensity interval training companion.
 
 ### Application in action:
 
-<img src="hiit-pal.gif" alt="payment" width="461" height=1000/>
+<img src="hiit-pal.gif" alt="hiitpal_working" width="461" height=1000/>
