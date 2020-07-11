@@ -7,5 +7,6 @@ A High intensity interval training companion.
 2. Sound to indicate start and end of an interval.
 
 
-Working Application:
+### Working Application:
+
 <img src="hiit-pal.gif" alt="payment" width="461" height=1000/>
